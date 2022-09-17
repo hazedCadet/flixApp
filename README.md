@@ -9,7 +9,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -21,12 +20,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src='https://imgur.com/a/qPGj5A1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/qPGj5A1.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/) & imgur(http://www.imgur.com).
 
 ### Notes
 Describe any challenges encountered while building the app.
 
-How to make synopsis scrollable so user can see whole description
+How to make synopsis scrollable so user can see whole description.
+getting the gif to render in the readme this time.
