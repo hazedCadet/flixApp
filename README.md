@@ -17,10 +17,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+### Flix v2
 
-<img src='https://https.imgur.com/R3J5xaF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/AONqIfr.gif' title='Flix v2' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/) & imgur(http://www.imgur.com).
@@ -42,10 +41,10 @@ Describe any challenges encountered while building the app.
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
-### App Walkthrough GIF
+### Flix v1
 
 [//]: # (<img src="https://imgur.com/a/qPGj5A1.gif" width=250><br>)
-<img src='https://www.imgur.com/wZcZPQ5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.imgur.com/wZcZPQ5.gif' title='Flix v1' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/) & imgur(http://www.imgur.com).
